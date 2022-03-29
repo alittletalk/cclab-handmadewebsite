@@ -1,2 +1,0 @@
-# cclab-handmadewebsite
-handmade website
